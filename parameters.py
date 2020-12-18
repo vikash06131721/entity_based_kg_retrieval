@@ -1,0 +1,5 @@
+VOCAB_FILE = 'biobert_v1.1_pubmed/vocab.txt'
+BERT_CONFIG_FILE = 'biobert_v1.1_pubmed/bert_config.json'
+BC5CDR_WEIGHT = 'biobert_v1.1_pubmed/bc5cdr_wt.pt'
+BIONLP13CG_WEIGHT = 'biobert_v1.1_pubmed/bionlp13cg_wt.pt'
+BERT_WEIGHTS = 'biobert_v1.1_pubmed/pytorch_weight'
