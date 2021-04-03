@@ -1,5 +1,5 @@
 # entity_based_kg_retrieval
-Code repository for paper Entity Based Knowledge Graph Information Retrieval For Biomedical Articles
+Code repository for paper Entity Based Knowledge Graph Information Retrieval For Biomedical Articles, Accepted at ICCIS20
 Please follow the following steps to finetune the NER model:
 1. Download the biobert model from https://github.com/dmis-lab/biobert
 2. Convert to pytorch_format using the notebook tf_to_pytorch_wt.ipynb
